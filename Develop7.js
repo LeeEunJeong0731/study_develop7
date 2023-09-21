@@ -1,8 +1,12 @@
-function calcFunc( first , second){
-  let value;
-  if (typeof calcFunc === "number"){
-  }
-  return value;
-}
+function calcFunc(first, second) {
 
-calcFunc (24,28)
+  if (typeof (first, second) === "number") {
+   
+    return(Math.max(first , second));
+  } else {
+    return "숫자열로 써주세요";
+  }
+};
+
+calcFunc(24, 28);9
+
