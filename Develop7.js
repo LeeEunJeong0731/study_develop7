@@ -5,4 +5,4 @@ function calcFunc( first , second){
   return value;
 }
 
-calcFunc (24,28);
+calcFunc (24,28)
