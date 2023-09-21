@@ -16,3 +16,5 @@ function makeElement(tagName , sizeValue) {
 if(typeof (sizeValue) === "number"){
 }
 };
+
+makeElement ("hi" , 300);
