@@ -12,5 +12,5 @@ calcFunc(24, 28);
 
 function makeElement(tagName , sizeValue) {
   if (typeof(tagName) === "string"){
-  }return
+  return}
 };
