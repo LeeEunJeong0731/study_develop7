@@ -8,5 +8,9 @@ function calcFunc(first, second) {
   }
 };
 
-calcFunc(24, 28);9
+calcFunc(24, 28);
 
+function makeElement(tagName , sizeValue) {
+  if (typeof(tagName) === "string"){
+  }
+};
